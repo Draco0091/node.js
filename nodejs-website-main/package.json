@@ -2,8 +2,7 @@
   "name": "your-app",
   "version": "1.0.0",
   "description": "A Node.js application",
-  "main": "app.js", // or 'server.js'
+  "main": "app.js", 
   "scripts": {
-    "start": "node app.js"  // Adjust this according to your main file
-  }
+    "start": "node app.js"  
 }
