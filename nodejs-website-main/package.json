@@ -1,8 +1,11 @@
 {
-  "name": "your-app",
+  "name": "my-app",
   "version": "1.0.0",
-  "description": "A Node.js application",
-  "main": "app.js", 
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js"  
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "latest"
+  }
 }
